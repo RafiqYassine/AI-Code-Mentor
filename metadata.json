@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Mentor",
+  "description": "A minimalist, AI-powered code analysis tool using Gemini and Firebase. Explain, improve, and debug your code with a clean 'VibeCoding' interface.",
+  "requestFramePermissions": []
+}
